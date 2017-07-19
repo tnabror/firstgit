@@ -1,0 +1,2 @@
+# firstgit
+belajar pertama git
